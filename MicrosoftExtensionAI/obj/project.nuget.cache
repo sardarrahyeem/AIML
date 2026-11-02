@@ -1,0 +1,29 @@
+{
+  "version": 2,
+  "dgSpecHash": "m19+QOTMj68=",
+  "success": true,
+  "projectFilePath": "D:\\DotNet Projects\\MEAI\\MicrosoftExtensionAI\\MicrosoftExtensionAI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sardar Khan\\.nuget\\packages\\azure.ai.inference\\1.0.0-beta.5\\azure.ai.inference.1.0.0-beta.5.nupkg.sha512",
+    "C:\\Users\\Sardar Khan\\.nuget\\packages\\azure.core\\1.46.1\\azure.core.1.46.1.nupkg.sha512",
+    "C:\\Users\\Sardar Khan\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\8.0.0\\microsoft.bcl.asyncinterfaces.8.0.0.nupkg.sha512",
+    "C:\\Users\\Sardar Khan\\.nuget\\packages\\microsoft.extensions.ai.abstractions\\9.9.0\\microsoft.extensions.ai.abstractions.9.9.0.nupkg.sha512",
+    "C:\\Users\\Sardar Khan\\.nuget\\packages\\microsoft.extensions.ai.azureaiinference\\9.9.0-preview.1.25458.4\\microsoft.extensions.ai.azureaiinference.9.9.0-preview.1.25458.4.nupkg.sha512",
+    "C:\\Users\\Sardar Khan\\.nuget\\packages\\microsoft.extensions.configuration\\10.0.13\\microsoft.extensions.configuration.10.0.13.nupkg.sha512",
+    "C:\\Users\\Sardar Khan\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\10.0.13\\microsoft.extensions.configuration.abstractions.10.0.13.nupkg.sha512",
+    "C:\\Users\\Sardar Khan\\.nuget\\packages\\microsoft.extensions.configuration.fileextensions\\10.0.13\\microsoft.extensions.configuration.fileextensions.10.0.13.nupkg.sha512",
+    "C:\\Users\\Sardar Khan\\.nuget\\packages\\microsoft.extensions.configuration.json\\10.0.13\\microsoft.extensions.configuration.json.10.0.13.nupkg.sha512",
+    "C:\\Users\\Sardar Khan\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.2\\microsoft.extensions.dependencyinjection.abstractions.8.0.2.nupkg.sha512",
+    "C:\\Users\\Sardar Khan\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\10.0.13\\microsoft.extensions.fileproviders.abstractions.10.0.13.nupkg.sha512",
+    "C:\\Users\\Sardar Khan\\.nuget\\packages\\microsoft.extensions.fileproviders.physical\\10.0.13\\microsoft.extensions.fileproviders.physical.10.0.13.nupkg.sha512",
+    "C:\\Users\\Sardar Khan\\.nuget\\packages\\microsoft.extensions.filesystemglobbing\\10.0.13\\microsoft.extensions.filesystemglobbing.10.0.13.nupkg.sha512",
+    "C:\\Users\\Sardar Khan\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.3\\microsoft.extensions.logging.abstractions.8.0.3.nupkg.sha512",
+    "C:\\Users\\Sardar Khan\\.nuget\\packages\\microsoft.extensions.primitives\\10.0.13\\microsoft.extensions.primitives.10.0.13.nupkg.sha512",
+    "C:\\Users\\Sardar Khan\\.nuget\\packages\\system.clientmodel\\1.4.1\\system.clientmodel.1.4.1.nupkg.sha512",
+    "C:\\Users\\Sardar Khan\\.nuget\\packages\\system.io.pipelines\\10.0.13\\system.io.pipelines.10.0.13.nupkg.sha512",
+    "C:\\Users\\Sardar Khan\\.nuget\\packages\\system.memory.data\\6.0.1\\system.memory.data.6.0.1.nupkg.sha512",
+    "C:\\Users\\Sardar Khan\\.nuget\\packages\\system.text.encodings.web\\10.0.13\\system.text.encodings.web.10.0.13.nupkg.sha512",
+    "C:\\Users\\Sardar Khan\\.nuget\\packages\\system.text.json\\10.0.13\\system.text.json.10.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
